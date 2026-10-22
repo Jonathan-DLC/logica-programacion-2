@@ -1,0 +1,12 @@
+{
+  "name": "logica-programacion-2",
+  "version": "1.0.0",
+  "description": "Conversor de temperatura Celsius a Fahrenheit y Kelvin en Node.js",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
